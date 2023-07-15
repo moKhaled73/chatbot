@@ -1,0 +1,38 @@
+[
+  {
+    "question" : "hello",
+    "answer" : "hello"
+  },
+  {
+    "question" : "how are you",
+    "answer" : "Iam fine thanks"
+  },
+  {
+    "question" : "ازيك",
+    "answer" : "بس يلا"
+  },
+  {
+    "question" : "what is your name",
+    "answer" : "chatbot"
+  },
+  {
+    "question" : "ساعدنى",
+    "answer" : "انا عايز الى يساعدنى"
+  },
+  {
+    "question" : "قولى نكتة",
+    "answer" : "نكتة"
+  },
+  {
+    "question" : "how old are you",
+    "answer" : "I don't know"
+  },
+  {
+    "question" : "عندك كام سنة",
+    "answer" : "و انت مال امك"
+  },
+  {
+    "question": "انت عامل ايه",
+    "answer" : "عامل محشى"
+  }
+]
